@@ -17,3 +17,4 @@ Haskell это классический язык для фп, моя подру�
 - [Документация Haskell](https://www.haskell.org/documentation/)
 - [Get Programming with Haskell - Will Kurt](https://www.manning.com/books/get-programming-with-haskell)
 - [Experiences with QuickCheck: Testing the Hard Stuff and Staying Sane - John Hughes](https://publications.lib.chalmers.se/records/fulltext/232550/local_232550.pdf)
+- [Stepik](https://stepik.org/course/75/info)
